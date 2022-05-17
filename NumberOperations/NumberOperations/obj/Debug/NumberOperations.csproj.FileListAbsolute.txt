@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\bin\Debug\NumberOperations.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\bin\Debug\NumberOperations.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\bin\Debug\NumberOperations.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\obj\Debug\NumberOperations.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\obj\Debug\NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\obj\Debug\NumberOperations.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\NumberOperations\NumberOperations\obj\Debug\NumberOperations.pdb
