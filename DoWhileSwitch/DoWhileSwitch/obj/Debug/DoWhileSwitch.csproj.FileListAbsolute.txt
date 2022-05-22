@@ -1,0 +1,6 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\bin\Debug\DoWhileSwitch.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\bin\Debug\DoWhileSwitch.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\bin\Debug\DoWhileSwitch.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\obj\Debug\DoWhileSwitch.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\obj\Debug\DoWhileSwitch.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DoWhileSwitch\DoWhileSwitch\obj\Debug\DoWhileSwitch.pdb
