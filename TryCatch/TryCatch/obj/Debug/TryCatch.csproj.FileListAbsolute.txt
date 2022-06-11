@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
