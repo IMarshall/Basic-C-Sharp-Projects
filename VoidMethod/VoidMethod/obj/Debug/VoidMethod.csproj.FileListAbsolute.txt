@@ -1,0 +1,6 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\bin\Debug\VoidMethod.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\VoidMethod\VoidMethod\obj\Debug\VoidMethod.pdb
