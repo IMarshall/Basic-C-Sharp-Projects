@@ -23,12 +23,14 @@ namespace OperatorOverload
             Console.WriteLine("{0} {1} quits.", firstName, lastName);
         }
 
+        //OVERLOAD == OPERATOR TO COMPARE ID PROPERTY
         public static bool operator ==(Employee emp1, Employee emp2)
         {
             bool idMatch = emp1.ID == emp2.ID;
             return idMatch;
         }
-
+        
+        //OVERLOAD != OPERATOR TO COMPARE ID PROPERTY
         public static bool operator !=(Employee emp1, Employee emp2)
         {
             bool idMatch = emp1.ID != emp2.ID;
