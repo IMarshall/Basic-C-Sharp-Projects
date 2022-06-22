@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\obj\Debug\OptionalArgument.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\obj\Debug\OptionalArgument.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\bin\Debug\OptionalArgument.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\bin\Debug\OptionalArgument.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\bin\Debug\OptionalArgument.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\obj\Debug\OptionalArgument.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OptionalArgument\OptionalArgument\obj\Debug\OptionalArgument.pdb

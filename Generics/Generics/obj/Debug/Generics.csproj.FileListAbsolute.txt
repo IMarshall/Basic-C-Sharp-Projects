@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Generics\Generics\obj\Debug\Generics.pdb
