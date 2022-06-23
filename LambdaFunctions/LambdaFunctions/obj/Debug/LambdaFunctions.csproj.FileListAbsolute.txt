@@ -1,0 +1,7 @@
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe.config
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.pdb
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.exe
+C:\Users\imars\source\repos\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.pdb
