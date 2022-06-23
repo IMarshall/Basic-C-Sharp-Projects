@@ -17,7 +17,6 @@ namespace TwentyOne
             Hand.Add(Deck.Cards.First());
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
-
         }
     }
 }
