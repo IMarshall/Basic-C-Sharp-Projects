@@ -1,0 +1,6 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\bin\Debug\LoggingToTextFile.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\bin\Debug\LoggingToTextFile.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\bin\Debug\LoggingToTextFile.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\obj\Debug\LoggingToTextFile.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\obj\Debug\LoggingToTextFile.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoggingToTextFile\LoggingToTextFile\obj\Debug\LoggingToTextFile.pdb
