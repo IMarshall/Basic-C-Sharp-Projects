@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\bin\Debug\DateTimeNow.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\bin\Debug\DateTimeNow.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\bin\Debug\DateTimeNow.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\obj\Debug\DateTimeNow.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\obj\Debug\DateTimeNow.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\obj\Debug\DateTimeNow.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeNow\DateTimeNow\obj\Debug\DateTimeNow.pdb
