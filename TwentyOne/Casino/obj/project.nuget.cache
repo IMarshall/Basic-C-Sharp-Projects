@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/6H+XT00ae+/b1LowCa9CPoyh0n1mQRYQO3LksT2OGXQ2mbBSjZ2YPDWniuTxs2CQDK/JvOEiXIndN5qcBKaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\TwentyOne\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imars\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\imars\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

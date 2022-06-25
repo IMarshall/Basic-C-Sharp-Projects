@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -11,7 +13,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            const string casinoName = "Grand Hotel and Casino";
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -23,6 +27,12 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.ID = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\log.txt", true))
+                {
+                    file.WriteLine(player.ID);
+                }
+
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;

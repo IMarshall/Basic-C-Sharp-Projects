@@ -1,0 +1,7 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.exe.config
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.pdb
