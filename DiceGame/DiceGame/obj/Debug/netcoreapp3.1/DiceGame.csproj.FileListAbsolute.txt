@@ -1,0 +1,14 @@
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.exe
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\bin\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.AssemblyReference.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Users\imars\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DiceGame\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache
