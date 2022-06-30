@@ -50,12 +50,82 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
+                
                 return RedirectToAction("Index");
             }
 
             return View(insuree);
+        }
+
+        //CALCULATE QUOTE
+        public decimal CalculateQuote(Insuree insuree)
+        {
+            decimal quote = 50;
+
+            //CALCULATE AGE
+            int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+
+            //IF THEY HAVEN'T HAD THEIR BIRTHDAY THIS YEAR, ADJUST THEIR AGE
+            if(DateTime.Now.DayOfYear < insuree.DateOfBirth.DayOfYear)
+            {
+                age -= 1;
+            }
+
+            //ADJUST QUOTE BASED ON AGE
+            if(age <= 18)
+            {
+                quote += 100;
+            }
+            else if(age >= 19 && age <= 25)
+            {
+                quote += 50;
+            }
+            else
+            {
+                quote += 25;
+            }
+
+            //ADJUST QUOTE BASED ON CAR YEAR
+            if(insuree.CarYear < 2000)
+            {
+                quote += 25;
+            }
+            else if(insuree.CarYear > 2015)
+            {
+                quote += 25;
+            }
+
+            //ADJUST QUOTE BASED ON CAR MAKE
+            if(insuree.CarMake.ToLower() == "porsche")
+            {
+                quote += 25;
+
+                if(insuree.CarModel.ToLower() == "911 carrera")
+                {
+                    quote += 25;
+                }
+            }
+
+            //ADJUST QUOTE BASED ON SPEEDING TICKETS
+            if(insuree.SpeedingTickets > 0)
+            {
+                quote += insuree.SpeedingTickets * 10;
+            }
+
+            if (insuree.DUI)
+            {
+                quote *= 1.25m;
+            }
+
+            if (insuree.CoverageType)
+            {
+                quote *= 1.5m;
+            }
+
+            return quote;
         }
 
         // GET: Insuree/Edit/5
@@ -113,13 +183,6 @@ namespace CarInsurance.Controllers
             db.Insurees.Remove(insuree);
             db.SaveChanges();
             return RedirectToAction("Index");
-        }
-
-        //CALCULATE QUOTE
-        public decimal CalculatQuote()
-        {
-            decimal baseQuote = 50;
-
         }
 
         protected override void Dispose(bool disposing)
